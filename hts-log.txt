@@ -1,0 +1,424 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Apr 2021 06:52:53 at https://forum.oyunortagim.com.tr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pxs2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://forum.oyunortagim.com.tr/ -O1 "C:\Users\OGUZHAN\Desktop\)\a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:54:50	Warning: 	See Other for https://forum.oyunortagim.com.tr/whats-new/posts/
+06:54:50	Warning: 	File has moved from https://forum.oyunortagim.com.tr/whats-new/posts/ to https://forum.oyunortagim.com.tr/whats-new/posts/6515/
+06:54:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://forum.oyunortagim.com.tr/whats-new/resources/ (from https://forum.oyunortagim.com.tr/)
+06:54:52	Warning: 	See Other for https://forum.oyunortagim.com.tr/whats-new/profile-posts/
+06:54:52	Warning: 	File has moved from https://forum.oyunortagim.com.tr/whats-new/profile-posts/ to https://forum.oyunortagim.com.tr/whats-new/profile-posts/6516/
+06:55:13	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-efsun-botu-sistemi.2753/#post-6068 (from https://forum.oyunortagim.com.tr/)
+06:55:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rinamt2-zirhlari.2752/#post-6067 (from https://forum.oyunortagim.com.tr/)
+06:55:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-pvp-server-kurma-uecretsiz-2021-sesli-anlatim-cok-istek-gelirse-dis-agdan-oyuncu-almayi-anlatirim.2751/#post-6066 (from https://forum.oyunortagim.com.tr/)
+06:55:17	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-filesler-arasi-k-farki-oernek-30k-40k-gibi.2750/#post-6065 (from https://forum.oyunortagim.com.tr/)
+06:55:19	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/40-k-files-ile-saltanat-tipi-files-farki-soru-cevap.2749/#post-6064 (from https://forum.oyunortagim.com.tr/)
+06:55:20	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-npc-sabitleme-npc-listte-olan-mobu-npc-olarak-kullanma.2748/#post-6063 (from https://forum.oyunortagim.com.tr/)
+06:55:22	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/fatal-error-python-library-file-not-exist-metin2-hatasi-icin.2747/#post-6062 (from https://forum.oyunortagim.com.tr/)
+06:55:23	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/mob-ekledim-goezuekmueyor-coezuem.2746/#post-6061 (from https://forum.oyunortagim.com.tr/)
+06:55:25	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/binegimin-muehruene-basiyorum-ama-binmiyor-hatasi-coezuemue-ve-luasi.2745/#post-6060 (from https://forum.oyunortagim.com.tr/)
+06:55:26	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/root-klasoeruenue-ayarladiktan-sonra-karakter-ekranindan-atma-sorunu.2744/#post-6059 (from https://forum.oyunortagim.com.tr/)
+06:56:09	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/members/arslan.125/ (from https://forum.oyunortagim.com.tr/)
+06:56:09	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/link-forums/oyun-ortagim-home-ofis-yoeneticilerini-ariyor.434/
+06:56:09	Warning: 	File has moved from https://forum.oyunortagim.com.tr/link-forums/oyun-ortagim-home-ofis-yoeneticilerini-ariyor.434/ to https://forum.oyunortagim.com.tr/threads/oyun-orta%C4%9F%C4%B1m-home-ofis-y%C3%B6neticilerini-ar%C4%B1yor.55/
+06:56:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/orjinal-konu-nasil-acilir.2316/#post-4893 (from https://forum.oyunortagim.com.tr/)
+06:56:21	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/dolar-yeniden-tirmanista.1911/#post-3945 (from https://forum.oyunortagim.com.tr/)
+06:56:40	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-deneme-moderatoer-alimi-nisan-ayi.2683/#post-6001 (from https://forum.oyunortagim.com.tr/)
+06:56:51	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rsiiie-kimdir.2669/#post-5988 (from https://forum.oyunortagim.com.tr/)
+06:56:51	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yunusbey-artik-bir-moderatoer.2061/#post-4690 (from https://forum.oyunortagim.com.tr/)
+06:57:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/29-nisan-ve-17-mayis-tarihleri-arasinda-tam-kapanmaya-gecildi.2729/#post-6044 (from https://forum.oyunortagim.com.tr/)
+06:57:08	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/harb2duello-oyunumuzda-mouse-fare-problemi-coezuemue.1620/#post-3318 (from https://forum.oyunortagim.com.tr/)
+06:57:12	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/katagori-basvuru-islemleri-ve-kurallar.80/#post-122 (from https://forum.oyunortagim.com.tr/)
+06:57:25	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/heriska2-160-250-server-rinamt2-tarzi-kolay-server-25-04-2021-aciliyor.1877/#post-5909 (from https://forum.oyunortagim.com.tr/)
+06:57:28	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/erdogan-games-takim-basvurulari-basladi-profesyonel-yoeneticiyim-diyorsan-hemen-tikla.1873/#post-3953 (from https://forum.oyunortagim.com.tr/)
+06:58:10	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/merhaba-yeni-nesil-serverlerin-ve-yeni-nesil-itemlerin-kodlari-asagidaki-gibidir.1518/#post-4746 (from https://forum.oyunortagim.com.tr/)
+06:58:48	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/waterfire-silah-seti.2315/#post-4892 (from https://forum.oyunortagim.com.tr/)
+06:59:07	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/socket_connect-host-localhost-15000-could-not-connect-fix.2533/#post-5713 (from https://forum.oyunortagim.com.tr/)
+06:59:08	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-private-server-auto-otomatik-ox-eventi-hatasiz.1769/#post-4015 (from https://forum.oyunortagim.com.tr/)
+06:59:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-server-kurmadan-oence-ve-kurduktan-sonra-yapmaniz-gerekenler.1517/#post-4009 (from https://forum.oyunortagim.com.tr/)
+06:59:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-dev-psd-arsivi-sizlerle-esatofficial.2502/#post-5925 (from https://forum.oyunortagim.com.tr/)
+06:59:30	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/mob-grubu-ayarlama-ve-sabitleme.1532/#post-4014 (from https://forum.oyunortagim.com.tr/)
+06:59:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rabisu-com-20-den-baslayan-fiyatlarla-ssd-vds-sunucular-sizleri-bekliyor.1401/#post-3937 (from https://forum.oyunortagim.com.tr/)
+06:59:38	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagimda-satis-yapmasi-yasaklanan-firmalar.300/#post-366 (from https://forum.oyunortagim.com.tr/)
+06:59:39	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/hosting-ariyorum-boeluem-kurallari.301/#post-367 (from https://forum.oyunortagim.com.tr/)
+06:59:41	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/nasil-bilirsiniz-boeluem-kurallari.302/#post-368 (from https://forum.oyunortagim.com.tr/)
+06:59:42	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-televizyon-reklami.1732/#post-4261 (from https://forum.oyunortagim.com.tr/)
+06:59:45	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oenemli-internet-alan-adlari-yoenetmeliginde-degisiklik-yapildi.2621/#post-5969 (from https://forum.oyunortagim.com.tr/)
+06:59:45	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/genel-hosting-sikayetleri-boeluem-kurallari.630/#post-1803 (from https://forum.oyunortagim.com.tr/)
+06:59:46	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/hosting-ariyorum-boeluem-kurallari.638/#post-1821 (from https://forum.oyunortagim.com.tr/)
+06:59:47	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/nasil-bilirsiniz-boeluem-kurallari.644/#post-1827 (from https://forum.oyunortagim.com.tr/)
+06:59:50	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/merak-edilenler-boeluem-kurallari.645/#post-1828 (from https://forum.oyunortagim.com.tr/)
+07:00:44	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/personel-kayit-scripti-uecretsiz.2682/#post-5978 (from https://forum.oyunortagim.com.tr/)
+07:00:48	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/windows-icin-en-iyi-11-ekran-kaydedici-programi-sizler-icin-derledik.1947/#post-4608 (from https://forum.oyunortagim.com.tr/)
+07:00:51	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-twitch-yayincilari.62/#post-5041 (from https://forum.oyunortagim.com.tr/)
+07:00:51	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/youtube-artik-videolarda-reklam-goestermeyi-zorunlu-kiliyor.1577/#post-4025 (from https://forum.oyunortagim.com.tr/)
+07:00:52	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyun-videosu-cekmek-ve-duezenlemek-icin-ideal-programlar.460/#post-4018 (from https://forum.oyunortagim.com.tr/)
+07:00:53	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/hashtag-kullaniminda-dikkat-edilmesi-gerekenler.1716/#post-4011 (from https://forum.oyunortagim.com.tr/)
+07:00:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/facebook-nedir.1950/#post-4605 (from https://forum.oyunortagim.com.tr/)
+07:00:59	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/whatsapp-yerin-alternatif-uygulamalar.1952/#post-4603 (from https://forum.oyunortagim.com.tr/)
+07:01:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/youtubermi-olmak-istiyorsun-dogru-yerdesin.1984/#post-4582 (from https://forum.oyunortagim.com.tr/)
+07:01:02	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/fortnite-geri-doenueyor-nvidia-geforce-now-iosa-geldi.1590/#post-4016 (from https://forum.oyunortagim.com.tr/)
+07:01:04	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/wolfteam-elit-itemler-mi-dediler.2706/#post-6014 (from https://forum.oyunortagim.com.tr/)
+07:01:09	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/alchemy-stone-serisi-1-taslarin-kullanimi.2716/#post-6027 (from https://forum.oyunortagim.com.tr/)
+07:01:11	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/point-blank-pazar-alani-boeluem-kurallari.1986/#post-4171 (from https://forum.oyunortagim.com.tr/)
+07:01:12	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-petleriniz-icin-300-simgeler.1733/#post-4058 (from https://forum.oyunortagim.com.tr/)
+07:01:27	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/wild-guns-nedir-bir-maceraya-hazirmiyiz.2711/#post-6022 (from https://forum.oyunortagim.com.tr/)
+07:01:40	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/destiny-2-duenyasina-giris.13/#post-4053 (from https://forum.oyunortagim.com.tr/)
+07:01:44	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/kingdom-quest-crimson-warden-3d-mmo-oyun-tanitim-inceleme.1001/#post-5065 (from https://forum.oyunortagim.com.tr/)
+07:01:50	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/surviv-io-kisa-inceleme.188/#post-5074 (from https://forum.oyunortagim.com.tr/)
+07:01:51	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/serveriniz-icin-logo-psd.1563/#post-5075 (from https://forum.oyunortagim.com.tr/)
+07:02:04	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/minecraft-inek-rehberi.215/#post-5172 (from https://forum.oyunortagim.com.tr/)
+07:02:08	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/minecraft-forge-hatasi-coezuemue.2659/#post-5934 (from https://forum.oyunortagim.com.tr/)
+07:02:09	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/5-senelik-tecruebe-ile-minecraft-server-yoenetimi.1380/#post-4611 (from https://forum.oyunortagim.com.tr/)
+07:02:10	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/minecraft-haritalari.93/#post-4613 (from https://forum.oyunortagim.com.tr/)
+07:02:11	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/minecraft-server-kurma-rehberi.1409/#post-3071 (from https://forum.oyunortagim.com.tr/)
+07:02:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/minecraft-5-tuerk-sunucusu.94/#post-4685 (from https://forum.oyunortagim.com.tr/)
+07:02:15	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/minecraft-sihirbazin-hayvanlari-tanitim.9/#post-5176 (from https://forum.oyunortagim.com.tr/)
+07:02:27	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/lonca-klan-discord-sablonu-hazir-oda-hazir-rol.2255/#post-5898 (from https://forum.oyunortagim.com.tr/)
+07:02:31	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/iris-panel-farm-metin-botu-hilesi-metin2-p-server.2306/#post-5952 (from https://forum.oyunortagim.com.tr/)
+07:02:32	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oernek-konu-konu-acmadan-oence-mutlaka-okuyunuz.2056/#post-4325 (from https://forum.oyunortagim.com.tr/)
+07:02:44	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-tuem-karekterler-statue-gelisimi.61/#post-5248 (from https://forum.oyunortagim.com.tr/)
+07:02:50	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/uac-hatasi-ve-coezuemue-metin2.2073/#post-4540 (from https://forum.oyunortagim.com.tr/)
+07:02:53	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2tr-baslangictan-en-son-seviyeye-kadar-10-adimda-karekter-gelisim-klavuzu.60/#post-5252 (from https://forum.oyunortagim.com.tr/)
+07:02:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2nin-efsanevi-oyuncusu-edilee-kimdir.1736/#post-5253 (from https://forum.oyunortagim.com.tr/)
+07:02:57	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-seffaf-lonca-simgeleri-dev-arsiv-esatofficial.2237/#post-5897 (from https://forum.oyunortagim.com.tr/)
+07:02:58	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/esatofficial-uecretsiz-metin2-pvp-server-logolari-uecretsiz-psd.1740/#post-4617 (from https://forum.oyunortagim.com.tr/)
+07:03:07	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-loluen-en-nadir-kostuemleri.354/#post-5277 (from https://forum.oyunortagim.com.tr/)
+07:03:09	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-sezon-ortasi-turnuvasi-koronavirues-nedeniyle-iptal-edildi.1117/#post-4619 (from https://forum.oyunortagim.com.tr/)
+07:03:10	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-lol-resimleri-videolari-boeluem-kurallari.352/#post-1559 (from https://forum.oyunortagim.com.tr/)
+07:03:11	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-lol-takimlar-boeluem-kurallari.353/#post-1558 (from https://forum.oyunortagim.com.tr/)
+07:03:22	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-blitzcrank-sampiyon-hikayesi.380/#post-5298 (from https://forum.oyunortagim.com.tr/)
+07:03:30	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-minik-efsaneler-set-4.327/#post-5309 (from https://forum.oyunortagim.com.tr/)
+07:03:43	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/league-of-legends-detayli-caitlyn-adc-rehberi-ruen-ve-ipuclari.316/#post-5345 (from https://forum.oyunortagim.com.tr/)
+07:03:47	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/knight-online-muesteri-hizmetleri-bilet-rehberi.1306/#post-5351 (from https://forum.oyunortagim.com.tr/)
+07:03:48	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/knight-online-0xe019100b-hatasi-coezuemue.168/#post-5352 (from https://forum.oyunortagim.com.tr/)
+07:03:54	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/piyasanin-nabzini-tutan-ilklerin-serveri-darkko-dan-selamlar.2705/#post-6012 (from https://forum.oyunortagim.com.tr/)
+07:04:04	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/piyasada-yeni-bir-oyun-valorant-nedir.2717/#post-6034 (from https://forum.oyunortagim.com.tr/)
+07:04:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/skyrim-byog-balance-your-own-game-1.829/#post-5432 (from https://forum.oyunortagim.com.tr/)
+07:04:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/fallout-3-tuerkce-yama.1015/#post-4626 (from https://forum.oyunortagim.com.tr/)
+07:04:22	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/fallout-4-cephane-yapabilme-yamasi.1019/#post-5440 (from https://forum.oyunortagim.com.tr/)
+07:04:31	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/fivem-rp-sunuculari-icin-temel-hud-komut-dosyasi-badgeressentials-v2-3-guencel-sueruem.2043/#post-4628 (from https://forum.oyunortagim.com.tr/)
+07:04:35	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/gta5-mta-aktif-rol-serverlar.2660/#post-5945 (from https://forum.oyunortagim.com.tr/)
+07:04:45	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/fivem-uecretsiz-lua-kodlarinizi-sifreleme.2026/#post-4630 (from https://forum.oyunortagim.com.tr/)
+07:04:52	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/gta-mta-server-genel-kurulum-ve-bilgileri.2657/#post-5930 (from https://forum.oyunortagim.com.tr/)
+07:05:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/silkroad-kale-savasi-itemleri.1709/#post-4632 (from https://forum.oyunortagim.com.tr/)
+07:05:04	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/wolfteam-bedava-carlar.2064/#post-4633 (from https://forum.oyunortagim.com.tr/)
+07:05:05	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/wolfteam-kasma-sorunu-coezuem.1302/#post-4634 (from https://forum.oyunortagim.com.tr/)
+07:05:15	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/patlayici-deposu-wolfteam-haritalar.1870/#post-4635 (from https://forum.oyunortagim.com.tr/)
+07:05:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/aion-online-hakkinda-bilgi.1294/#post-4636 (from https://forum.oyunortagim.com.tr/)
+07:05:17	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/allods-online-hakkinda-bilgi.1295/#post-4637 (from https://forum.oyunortagim.com.tr/)
+07:05:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/apex-legend-mi-dediniz.2708/#post-6017 (from https://forum.oyunortagim.com.tr/)
+07:05:31	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/archeage-son-guencellemeler.989/#post-4639 (from https://forum.oyunortagim.com.tr/)
+07:05:32	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/atlantica-online-nedir.1309/#post-4640 (from https://forum.oyunortagim.com.tr/)
+07:05:38	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/tuerkiyenin-mmorpg-oyunu-steamde-uecretsiz.1869/#post-4641 (from https://forum.oyunortagim.com.tr/)
+07:05:39	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/blade-and-soul-hakkinda-bilgi-blade-and-soul-nedir.1310/#post-4642 (from https://forum.oyunortagim.com.tr/)
+07:05:41	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/cabal-online-nedir.1311/#post-4643 (from https://forum.oyunortagim.com.tr/)
+07:05:42	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/combat-arms-nedir.1312/#post-4644 (from https://forum.oyunortagim.com.tr/)
+07:05:48	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/counter-strike-1-6-de_-oen-isimli-haritalar.134/#post-4645 (from https://forum.oyunortagim.com.tr/)
+07:05:59	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/cs-goda-en-cok-kazanan-10-takim.1704/#post-4646 (from https://forum.oyunortagim.com.tr/)
+07:06:00	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/counter-strike-nexon-zombies-ile-oyunun-kurallari-degisti.1313/#post-4647 (from https://forum.oyunortagim.com.tr/)
+07:06:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/dc-universe-online-hakkinda-bilgi-dc-universe-nedir.1314/#post-4648 (from https://forum.oyunortagim.com.tr/)
+07:06:03	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/blast-150-bin-dolar-oeduel-dagitilacak-dota-2-turnuvasini-duyurdu.1148/#post-4649 (from https://forum.oyunortagim.com.tr/)
+07:06:03	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/first-blood-nedir.1315/#post-4650 (from https://forum.oyunortagim.com.tr/)
+07:06:04	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/florensia-nedir.1317/#post-4651 (from https://forum.oyunortagim.com.tr/)
+07:06:05	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/forsaken-world-hakkinda-bilgi.1318/#post-4652 (from https://forum.oyunortagim.com.tr/)
+07:06:05	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/imperia-online-genel-bakis.1316/#post-4653 (from https://forum.oyunortagim.com.tr/)
+07:06:17	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/bruno-mars-tarafindan-hazirlanan-dans-figuerue-fornite-eklendi.2048/#post-4551 (from https://forum.oyunortagim.com.tr/)
+07:06:27	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/crossfire-yaz-sicramasi-etkinligi-summer-splash.968/#post-4654 (from https://forum.oyunortagim.com.tr/)
+07:06:42	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/12-nisan-18-nisan-point-blank-resmi-haftalik-etkinlikleri.2479/#post-5630 (from https://forum.oyunortagim.com.tr/)
+07:06:56	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/pubgnin-pc-sueruemuende-hos-olmayan-degisiklik.1221/#post-4655 (from https://forum.oyunortagim.com.tr/)
+07:07:03	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/path-of-exile-son-guencelleme-notlari.245/#post-4656 (from https://forum.oyunortagim.com.tr/)
+07:07:05	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/point-blank-goerev-sistemi.921/#post-4657 (from https://forum.oyunortagim.com.tr/)
+07:07:06	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/roblox-oyunu-nedir-nasil-indirilir-nasil-oynanir.91/#post-4658 (from https://forum.oyunortagim.com.tr/)
+07:07:08	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rocket-league-genel-bakis.572/#post-4659 (from https://forum.oyunortagim.com.tr/)
+07:07:20	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rusta-bir-bakis-ile-rastlamak-d.2661/#post-5946 (from https://forum.oyunortagim.com.tr/)
+07:07:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/tactic-force-tuem-otamatik-silahlari.84/#post-4661 (from https://forum.oyunortagim.com.tr/)
+07:07:42	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/zula-da-son-haberler-size-evde-kal-mi-dediler.2721/#post-6032 (from https://forum.oyunortagim.com.tr/)
+07:07:48	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/dark-orbit-sirketler.1680/#post-4663 (from https://forum.oyunortagim.com.tr/)
+07:07:49	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/aq-worlds-baslangic-rehberi-kasilma-yerleri-2019-2020.999/#post-4664 (from https://forum.oyunortagim.com.tr/)
+07:07:58	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/popmundoya-nasil-kayit-olunur-detayli-anlatim.952/#post-4675 (from https://forum.oyunortagim.com.tr/)
+07:07:59	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yillarin-internet-fenomeni-olan-transformice-oyunu-hakkinda-biraz-bilgi.1286/#post-4677 (from https://forum.oyunortagim.com.tr/)
+07:08:04	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/gaziantepte-gelistirilen-mobil-oyun-15-uelkede-en-cok-indirilenler-arasina-girdi.1990/#post-4578 (from https://forum.oyunortagim.com.tr/)
+07:08:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/mobil-pubg-de-haberler-1.2665/#post-5950 (from https://forum.oyunortagim.com.tr/)
+07:08:27	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/call-of-duty-mobilein-betasina-nasil-kayit-olunur.2696/#post-6003 (from https://forum.oyunortagim.com.tr/)
+07:08:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/clash-of-clans-yanlis-bilinenler-rehber.625/#post-4679 (from https://forum.oyunortagim.com.tr/)
+07:08:32	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/clash-royale-lig-muecadelesi-rehberi.955/#post-4680 (from https://forum.oyunortagim.com.tr/)
+07:08:36	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/pokemon-go-pvp-moduyla-geliyor.971/#post-4681 (from https://forum.oyunortagim.com.tr/)
+07:08:49	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/soulstorm-pc-ve-playstation-icin-yayinlandi.2068/#post-4544 (from https://forum.oyunortagim.com.tr/)
+07:08:50	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyundan-atma-sorunu-coezuemue-among-us.2238/#post-4784 (from https://forum.oyunortagim.com.tr/)
+07:08:54	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/kafa-topu-2-durdurma-elmas-altin-zuemruet-puan-dp-turnuva-hilesi-2021.2010/#post-5457 (from https://forum.oyunortagim.com.tr/)
+07:08:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/cod-black-ops-cold-war-tuem-ilerlemenizi-warzone-ile-paylasacak.1431/#post-4682 (from https://forum.oyunortagim.com.tr/)
+07:08:56	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/the-dark-eye-chains-of-satinav-demo.1403/#post-4683 (from https://forum.oyunortagim.com.tr/)
+07:09:09	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/death-strandingde-porter-grade-nedir.1884/#post-4684 (from https://forum.oyunortagim.com.tr/)
+07:09:17	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/nisan-ayinin-uecretsiz-playstation-oyunlari-aciklandi.2059/#post-4548 (from https://forum.oyunortagim.com.tr/)
+07:09:53	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/sony-popueler-playstation-oyunlarini-telefonlara-tasimak-istiyor.2439/#post-5569 (from https://forum.oyunortagim.com.tr/)
+07:12:28	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/cadi-prenses-makyaji.2742/#post-6057 (from https://forum.oyunortagim.com.tr/)
+07:12:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/ticaret-platformu-oezellikleri.54/#post-4001 (from https://forum.oyunortagim.com.tr/)
+07:12:31	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oernek-sikayetciyim-sablonu.1925/#post-4002 (from https://forum.oyunortagim.com.tr/)
+07:12:36	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyun-ortagim-dogrudan-satis-sistemleri-tanitim-4-boeluem-ep-market.1009/#post-5571 (from https://forum.oyunortagim.com.tr/)
+07:12:37	Warning: 	See Other for https://forum.oyunortagim.com.tr/whats-new/posts/?skip=1
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/whats-new/posts/?skip=1 to https://forum.oyunortagim.com.tr/whats-new/posts/6517/
+07:12:37	Warning: 	See Other for https://forum.oyunortagim.com.tr/whats-new/profile-posts/?skip=1
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/whats-new/profile-posts/?skip=1 to https://forum.oyunortagim.com.tr/whats-new/profile-posts/6518/
+07:12:37	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/139/
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/139/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-139
+07:12:37	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/138/
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/138/ to https://forum.oyunortagim.com.tr/members/rsiiie.286/#profile-post-138
+07:12:37	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/137/
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/137/ to https://forum.oyunortagim.com.tr/members/mt2.283/#profile-post-137
+07:12:37	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/136/
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/136/ to https://forum.oyunortagim.com.tr/members/mt2.283/#profile-post-136
+07:12:37	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/135/
+07:12:37	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/135/ to https://forum.oyunortagim.com.tr/members/rsiiie.286/#profile-post-135
+07:12:41	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/img/bn-arrows.png (from https://forum.oyunortagim.com.tr/css.php?css=public%3AUserActivity.less%2Cpublic%3Alightbox.less%2Cpublic%3Anetr0n_haber_akisi_custom.less%2Cpublic%3Anode_list.less%2Cpublic%3Ashare_controls.less%2Cpublic%3Axgt_forumistatik.less%2Cpublic%3Aextra.less&s=1&l=4&d=1618815822&k=a5deaa22c72f8598e29c904e47f2ee508d516c29)
+07:12:41	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/styles/default/xenforo/icons/bn-arrows.png (from https://forum.oyunortagim.com.tr/css.php?css=public%3AUserActivity.less%2Cpublic%3Alightbox.less%2Cpublic%3Anetr0n_haber_akisi_custom.less%2Cpublic%3Anode_list.less%2Cpublic%3Ashare_controls.less%2Cpublic%3Axgt_forumistatik.less%2Cpublic%3Aextra.less&s=1&l=4&d=1618815822&k=a5deaa22c72f8598e29c904e47f2ee508d516c29)
+07:12:41	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/styles/icons/firmaysvergi.png (from https://forum.oyunortagim.com.tr/css.php?css=public%3AUserActivity.less%2Cpublic%3Alightbox.less%2Cpublic%3Anetr0n_haber_akisi_custom.less%2Cpublic%3Anode_list.less%2Cpublic%3Ashare_controls.less%2Cpublic%3Axgt_forumistatik.less%2Cpublic%3Aextra.less&s=1&l=4&d=1618815822&k=a5deaa22c72f8598e29c904e47f2ee508d516c29)
+07:12:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://forum.oyunortagim.com.tr/whats-new/resources/ (from https://forum.oyunortagim.com.tr/)
+07:14:04	Warning: 	See Other for https://forum.oyunortagim.com.tr/register/connected-accounts/facebook/?setup=1
+07:14:04	Warning: 	File has moved from https://forum.oyunortagim.com.tr/register/connected-accounts/facebook/?setup=1 to https://www.facebook.com/dialog/oauth?type=web_server&client_id=198372321392943&redirect_uri=https%3A%2F%2Fforum.oyunortagim.com.tr%2Fconnected_account.php&response_type=code&scope=email&state=98e5915d7aca34e76c27e8ae119c561f
+07:14:05	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/attachments/efsun1-png.2967/ (from https://forum.oyunortagim.com.tr/threads/metin2-efsun-botu-sistemi.2753/)
+07:14:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/sibermt2-tarzi-server-files-120-silahli.2652/#post-5921 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:14:18	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/10-dakikada-metin2-server-kurma.1771/#post-3492 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:14:18	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rasyonelshield-v2-anti-cheat-hile-engelleme-esatofficial.2065/#post-5894 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:14:18	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/esatofficial-metin2-oezel-tek-kat-map-quests.1863/#post-3968 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:14:18	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/esatofficial-yang-exp-arttirma-ya-da-azaltma.1845/#post-3866 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:14:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/npcnin-yoenuenue-degistirme-nasil-yapilir.510/#post-4781 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:14:58	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-gm-kodlarini-engellemek-nasil-yapilir.511/#post-4780 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-quest-ekleme-nasil-yapilir.512/#post-4779 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:05	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/navicat-ile-npc-item-ekleme-nasil-yapilir.513/#post-4778 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:05	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/members/r-q-n.28/ (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:12	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/basma-ve-doenuesuem-beta-vs-itemlerini-ayarlama.469/#post-4777 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:17	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-baslayan-gmler-icin-tavsiyeler.58/#post-4776 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:20	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/profesyonel-bir-game-master-nelere-dikkat-etmeli-nasil-olmali-neleri-bilmeli.56/#post-4775 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:26	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/tek-tusla-metin2-pvp-para-oranlarini-exp-oranlarini-yuekseltip-azaltma.49/#post-4774 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:30	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/gm-komutlari-aranan-hersey-tek-bir-konuda-buyrun.44/#post-4773 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/putty-nasil-kullanilabilir-sunucumuza-nasil-reboot-atabiliriz.51/#post-4772 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-kurulumu.193/)
+07:15:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/attachments/53619/ (from https://forum.oyunortagim.com.tr/threads/metin2-pvp-server-kurma-uecretsiz-2021-sesli-anlatim-cok-istek-gelirse-dis-agdan-oyuncu-almayi-anlatirim.2751/)
+07:15:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/attachments/53616/ (from https://forum.oyunortagim.com.tr/threads/metin2-pvp-server-kurma-uecretsiz-2021-sesli-anlatim-cok-istek-gelirse-dis-agdan-oyuncu-almayi-anlatirim.2751/)
+07:15:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/attachments/53617/ (from https://forum.oyunortagim.com.tr/threads/metin2-pvp-server-kurma-uecretsiz-2021-sesli-anlatim-cok-istek-gelirse-dis-agdan-oyuncu-almayi-anlatirim.2751/)
+07:15:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/attachments/53618/ (from https://forum.oyunortagim.com.tr/threads/metin2-pvp-server-kurma-uecretsiz-2021-sesli-anlatim-cok-istek-gelirse-dis-agdan-oyuncu-almayi-anlatirim.2751/)
+07:15:34	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/attachments/binek-png.2966/ (from https://forum.oyunortagim.com.tr/threads/binegimin-muehruene-basiyorum-ama-binmiyor-hatasi-coezuemue-ve-luasi.2745/)
+07:15:43	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/129/
+07:15:43	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/129/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-129
+07:15:54	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/124/
+07:15:54	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/124/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-124
+07:15:55	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/123/
+07:15:55	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/123/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-123
+07:15:55	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/121/
+07:15:55	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/121/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-121
+07:15:55	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/118/
+07:15:55	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/118/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-118
+07:15:55	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/116/
+07:15:55	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/116/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-116
+07:15:55	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/115/
+07:15:55	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/115/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-115
+07:15:55	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/114/
+07:15:55	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/114/ to https://forum.oyunortagim.com.tr/members/yunusbey.198/#profile-post-114
+07:16:09	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/134/
+07:16:09	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/134/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-134
+07:16:22	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/107/
+07:16:22	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/107/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-107
+07:16:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://forum.oyunortagim.com.tr/profile-posts/71/ (from https://forum.oyunortagim.com.tr/members/tunay-sezer.6/)
+07:16:23	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/members/redbull.91/ (from https://forum.oyunortagim.com.tr/members/tunay-sezer.6/)
+07:16:23	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/62/
+07:16:23	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/62/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-62
+07:16:25	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/44/
+07:16:25	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/44/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-44
+07:16:25	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/36/
+07:16:25	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/36/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-36
+07:16:25	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/35/
+07:16:25	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/35/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-35
+07:16:27	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/22/
+07:16:27	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/22/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-22
+07:16:28	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/17/
+07:16:28	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/17/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-17
+07:16:28	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/14/
+07:16:28	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/14/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-14
+07:16:31	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/12/
+07:16:31	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/12/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-12
+07:16:45	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/5/
+07:16:45	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/5/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-5
+07:16:45	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/4/
+07:16:45	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/4/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-4
+07:16:45	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/3/
+07:16:45	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/3/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-3
+07:16:45	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/2/
+07:16:45	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/2/ to https://forum.oyunortagim.com.tr/members/tunay-sezer.6/#profile-post-2
+07:17:06	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/39/
+07:17:06	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/39/ to https://forum.oyunortagim.com.tr/members/stroffical.15/#profile-post-39
+07:17:07	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/32/
+07:17:07	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/32/ to https://forum.oyunortagim.com.tr/members/stroffical.15/#profile-post-32
+07:17:07	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/23/
+07:17:07	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/23/ to https://forum.oyunortagim.com.tr/members/stroffical.15/#profile-post-23
+07:17:07	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/15/
+07:17:07	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/15/ to https://forum.oyunortagim.com.tr/members/stroffical.15/#profile-post-15
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/131/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/131/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-131
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/130/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/130/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-130
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/122/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/122/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-122
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/120/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/120/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-120
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/117/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/117/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-117
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/112/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/112/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-112
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/111/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/111/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-111
+07:17:24	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/110/
+07:17:24	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/110/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-110
+07:17:25	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/109/
+07:17:25	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/109/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-109
+07:17:25	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/106/
+07:17:25	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/106/ to https://forum.oyunortagim.com.tr/members/esatofficial.151/#profile-post-106
+07:17:29	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/20/
+07:17:29	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/20/ to https://forum.oyunortagim.com.tr/members/eskiz.14/#profile-post-20
+07:17:30	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/19/
+07:17:30	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/19/ to https://forum.oyunortagim.com.tr/members/eskiz.14/#profile-post-19
+07:17:30	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/16/
+07:17:30	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/16/ to https://forum.oyunortagim.com.tr/members/eskiz.14/#profile-post-16
+07:17:30	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/11/
+07:17:30	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/11/ to https://forum.oyunortagim.com.tr/members/eskiz.14/#profile-post-11
+07:17:30	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/7/
+07:17:30	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/7/ to https://forum.oyunortagim.com.tr/members/eskiz.14/#profile-post-7
+07:17:41	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/31/
+07:17:41	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/31/ to https://forum.oyunortagim.com.tr/members/mustafabptr.32/#profile-post-31
+07:17:41	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/30/
+07:17:41	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/30/ to https://forum.oyunortagim.com.tr/members/mustafabptr.32/#profile-post-30
+07:17:54	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/128/
+07:17:54	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/128/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-128
+07:17:54	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/108/
+07:17:54	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/108/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-108
+07:17:54	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/96/
+07:17:54	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/96/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-96
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/92/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/92/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-92
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/91/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/91/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-91
+07:17:56	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/members/hayal.112/ (from https://forum.oyunortagim.com.tr/members/mefetseger.1/)
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/64/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/64/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-64
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/42/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/42/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-42
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/38/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/38/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-38
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/28/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/28/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-28
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/6/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/6/ to https://forum.oyunortagim.com.tr/members/mefetseger.1/#profile-post-6
+07:17:56	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/members/2/
+07:17:56	Warning: 	File has moved from https://forum.oyunortagim.com.tr/members/2/ to https://forum.oyunortagim.com.tr/members/nabi-filiker.2/
+07:18:07	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/95/
+07:18:07	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/95/ to https://forum.oyunortagim.com.tr/members/buzadam.130/#profile-post-95
+07:18:07	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/83/
+07:18:07	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/83/ to https://forum.oyunortagim.com.tr/members/buzadam.130/#profile-post-83
+07:18:07	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/threads/oyun-ortağım-home-ofis-yöneticilerini-arıyor.55/
+07:18:07	Warning: 	File has moved from https://forum.oyunortagim.com.tr/threads/oyun-ortağım-home-ofis-yöneticilerini-arıyor.55/ to https://forum.oyunortagim.com.tr/threads/oyun-ortagim-home-ofis-yoeneticilerini-ariyor.55/
+07:18:11	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/google-aramalarda-en-uest-siraya-cikmak-icin-10-ipucu.1410/#post-4760 (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:15	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin-2-tr-neden-bozuldu.1471/#post-4759 (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:19	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/whatsapp-geri-adim-atti-mi-aciklama-geldi-whatsapp-soezlesmesi-iptal-mi.1751/#post-3942 (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:19	Error: 	"Forbidden" (403) at link https://forum.oyunortagim.com.tr/members/omeraydinelcasier.122/ (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:21	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-nesne-markette-indirim-var.1418/#post-3081 (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:22	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/gameforge-kasim-ayinda-oyunda-yapacagi-etkinlikleri-acikladi.1417/#post-3080 (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:23	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-yeni-ticaret-sistemini-acikladi.1416/#post-3079 (from https://forum.oyunortagim.com.tr/forums/orjinal-konu-etkinligi.431/)
+07:18:27	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/android-12-gelistirici-oenizlemesi-duyuruldu.1785/#post-3935 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:28	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/bitcoin-50-bin-dolar-psikolojik-seviyesini-asti.1764/#post-3485 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:31	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/windows-10-21h1-resmi-olarak-duyuruldu.1762/#post-3483 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:32	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rtx-3060-3200-tl-fiyatiyla-nvidia-sitesinde-yerini-aldi.1761/#post-3482 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/intel-performans-duesuesue-yasanmis-olan-tuem-islemcilerini-acikladi.1516/#post-3189 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:37	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/bilgisayarin-performansini-arttirma-donanimsal-hata-coezuemleri-yazilimsal-hata-coezuemleri-tek-konu.1515/#post-3188 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:38	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/bilgisayarla-ilgili-ilginc-bilgiler.1447/#post-3111 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:43	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rehber-bilgisayarim-yavas-calisiyor-nasil-duezeltebilirim.1421/#post-3085 (from https://forum.oyunortagim.com.tr/forums/rehber-konular.19/)
+07:18:45	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/kaizen-games-oezguen-makale-ve-inceleme-yarismasi-toplam-oeduel-200-tl.863/#post-2164 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:18:47	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-ekibimize-yeni-katilan-moderatoerlerimizin-yetkileri-ve-sorumlusu-oldugu-katagorileri.1476/#post-3936 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:18:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/mesaj-goenderirken-ekleyebilecegimiz-ifadelerin-listesi.1853/#post-3614 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:18:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-forum-kurallari.1852/#post-3610 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:18:59	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/ueye-yuekselme-rehberi.1823/#post-3567 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/10-kasim-mustafa-kemal-atatuerkue-anma-guenue-anlam-ve-oenemi-2020.1457/#post-3121 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:08	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-kadrosu.81/#post-123 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/23-nisan-ulusal-egemenlik-ve-cocuk-bayramimiz-kutlu-olsun.2636/#post-5985 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:23	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyun-ortagim-forum-sitesinin-resmi-olarak-sms-onayi-hizmete-sunuldu.2305/#post-4886 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:28	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-ve-tenzilleri-03-04-2021.2044/#post-4302 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:32	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-deneme-moderatoer-alimi-mart-ayi.1954/#post-4119 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:36	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-ranklarimiz-aktif-edildi.1824/#post-3938 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:40	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-ve-tenzilleri-14-03-2021.1896/#post-3817 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:47	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-co-adminimiz-23-02-2021.1801/#post-3566 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:53	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-09-01-2021.1745/#post-3456 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/1-ocak-2021-yilbasi-milletimize-hayirli-olmasi-dilegiyle.1741/#post-3451 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:56	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-22-11-2020.1606/#post-3303 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:58	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-adminimiz-26-10-2020.1411/#post-3074 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:19:59	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-tenzilleri-18-10-2020.1402/#post-3064 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-02-08-2020.1381/#post-3042 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:09	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyun-ortagim-home-ofis-yoeneticilerini-ariyor.55/#post-3029 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:12	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-11-05-2020.1162/#post-2639 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:14	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-30-04-2020.1137/#post-2613 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-co-adminimiz-25-04-2020.1121/#post-2594 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:20	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyun-ortagim-uecretli-kurumsal-youtube-partnerligi-basvuru.1077/#post-2555 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:26	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/oyunortagim-com-tr-yoenetim-terfileri-06-04-2020.933/#post-2279 (from https://forum.oyunortagim.com.tr/forums/forumumuz-hakkinda.20/)
+07:20:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://forum.oyunortagim.com.tr/forums/aktif-yarismalar.181/index.rss (from https://forum.oyunortagim.com.tr/forums/aktif-yarismalar.181/)
+07:20:33	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/132/
+07:20:33	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/132/ to https://forum.oyunortagim.com.tr/members/mt2.283/#profile-post-132
+07:20:35	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/tanisma-alani-oernek-sablonu.1653/#post-3353 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:20:42	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yunusbey-kimdir.1901/#post-3902 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:20:49	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/esatofficial-kimdir.1857/#post-3874 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:20:52	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/nhympex-kimdir.1872/#post-3690 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:20:57	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-yi-kac-kisi-oynuyor.1731/#post-3434 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/wajwakana-kimdir.1715/#post-3418 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:02	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/ertugrulfaik-kimdir.1663/#post-3364 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:07	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/sayokan06-kimdir.1661/#post-3362 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:08	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/forum-yoeneticisi-jaman-kimdir.1659/#post-3360 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:09	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/buzadam-kimdir.1658/#post-3359 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:13	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/muhammed-yilmaz-kimdir.1657/#post-3358 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:15	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/forum-co-admini-stroffical-kimdir.1656/#post-3357 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:16	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/forum-admini-tunay-sezer-kimdir.1654/#post-3355 (from https://forum.oyunortagim.com.tr/forums/tanisma-alani.27/)
+07:21:55	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/amorf-dogulu-trap.2681/#post-6018 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:21:58	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/aradiginiz-cevaplar-rasyonel-ne-demek-nedir-kelime-anlami.2655/#post-5974 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:00	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/thodexin-sahibi-faruk-fatih-oezer-interpoluen-listesindeki-30-tuerk-oldu.2654/#post-5973 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:13	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/sicak-roeportaj-tuncer-merez-kimdir.2596/#post-5918 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:19	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/the-flash-final-mi-yapiyor.2386/#post-5906 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:23	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/avengers-endgame-hakkinda.2586/#post-5905 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:32	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/doctor-strange-2den-guencellemeler.2385/#post-5904 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:40	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/avatar-2-hakkinda-bilinmesi-gerekenler.2388/#post-5903 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:22:51	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/venom-2-ilk-bakis.2387/#post-5902 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:02	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/ghost-rider-3-baska-bir-film-olacak-mi.2054/#post-5901 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:13	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/teen-wolf-7-sezon-neden-yayinlanmadi.2053/#post-5900 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:19	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/teamspeak-hakkinda.2389/#post-5899 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/godzilla-vs-king-kong-savasini-kim-kazanir.2055/#post-5893 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:35	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/lrc-loopring-coin-nedir.2007/#post-5892 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:38	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/guevenlik-sorusturmasi-ve-arsiv-arastirmasi-kanunu-yasalasti.2585/#post-5773 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:43	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/kripto-para-yasal-mi-kripto-paralar-yasaklandi.2503/#post-5711 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:44	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/ilk-doz-asisi-yapildiktan-sonra-koronaviruese-yakalanan-kisilere-tekrardan-asi-uygulamasi-baslatilacak.2347/#post-5461 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:49	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/getir-300-milyor-dolar-daha-yatirim-aldi.1965/#post-4600 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:53	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-kanser-asisi-geliyor-demistik.1968/#post-4598 (from https://forum.oyunortagim.com.tr/forums/bilim-teknoloji.497/)
+07:23:54	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/harb2dueello-serveri-sikayet-kabuelue-icin-zorunlu-yapilmasi-gerekenler.1414/#post-3077 (from https://forum.oyunortagim.com.tr/forums/harb2dueello-serveri-sikayet.472/)
+07:23:54	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/harb2dueello-serveri-sikayet-oernek-konu.1413/#post-3076 (from https://forum.oyunortagim.com.tr/forums/harb2dueello-serveri-sikayet.472/)
+07:24:00	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/102/
+07:24:00	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/102/ to https://forum.oyunortagim.com.tr/members/jaman.107/#profile-post-102
+07:24:00	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/93/
+07:24:00	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/93/ to https://forum.oyunortagim.com.tr/members/jaman.107/#profile-post-93
+07:24:00	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/85/
+07:24:00	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/85/ to https://forum.oyunortagim.com.tr/members/jaman.107/#profile-post-85
+07:24:00	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/70/
+07:24:00	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/70/ to https://forum.oyunortagim.com.tr/members/jaman.107/#profile-post-70
+07:24:00	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/67/
+07:24:00	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/67/ to https://forum.oyunortagim.com.tr/members/jaman.107/#profile-post-67
+07:24:00	Warning: 	Moved Permanently for https://forum.oyunortagim.com.tr/profile-posts/65/
+07:24:00	Warning: 	File has moved from https://forum.oyunortagim.com.tr/profile-posts/65/ to https://forum.oyunortagim.com.tr/members/jaman.107/#profile-post-65
+07:24:02	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/rank-basvuru-kurallari.79/#post-121 (from https://forum.oyunortagim.com.tr/forums/metin2-private-server-rank-ve-katagori-basvurusu.190/)
+07:24:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/index.rss (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:06	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2-pvp-serverler-server-tanitimi-boeluem-kurallari.383/#post-462 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:29	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/atrosmt2-1-99-level-araligi-emek-pvp-severlere-muejde-13-04-2021-21-00-da-karsinizda-ezige-potun-yigide-slotun-dayanmadigi-server.2384/#post-5501 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:34	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-1-99-orta-emek-server-3-nisan-cumartesi-aksam-saat-21-00da-aciliyor-simya-yok-kusak-yok-kemer-yok-lycan-yok-evrim-yok.2034/#post-4271 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:35	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/yeni-1-99-orta-emek-server-20-03-2021-cumartesi-aksam-saat-21-00da-aciliyor-simya-yok-kusak-yok-kemer-yok-lycan-yok-evrim-yok.1898/#post-3955 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:37	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/1-99-yeni-orta-emek-pvp-server-sizlerle.1888/#post-3752 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:41	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/1-99-old-school-arkosia2-12-martta-aciliyor.1822/#post-3686 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:48	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/milat2-server-files-dosyalari.1529/#post-3661 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:50	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/1-99-yeni-orta-emek-server-wolwes2-com-5-mart-2021-cuma-21-00da-aciliyor-10-000-tl-oezel-oeduellue-turnuvalar.1851/#post-3621 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:24:57	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/khons2-20-02-2021-tarihinde-aciliyor-1-105-orta-emek-2015-files-teamspeak3-ip-khons2-5000-tl-oeduel-kadim-efsun-yok.1763/#post-3484 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:25:01	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2tk-zor-emek-1baslangic-99bitis.1756/#post-3472 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:25:02	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/metin2tk-eski-bir-o-kadarda-yeni-server.1755/#post-3471 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
+07:25:03	Error: 	"Not Found" (404) at link https://forum.oyunortagim.com.tr/threads/1-99-yeni-orta-emek-server-wolwes2-com-22-ocak-2021-cuma-21-00da-aciliyor-10-000-tl-oezel-oeduellue-turnuvalar.1752/#post-3466 (from https://forum.oyunortagim.com.tr/forums/metin2-pvp-serverler-server-tanitimi.191/)
